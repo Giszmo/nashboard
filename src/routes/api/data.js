@@ -20,7 +20,8 @@ const relays = [
   "wss://nostr.unknown.place",
   "wss://relay.damus.io",
   "wss://nostr.openchain.fr",
-  "wss://nostr.delo.software"
+  "wss://nostr.delo.software",
+  "wss://relay.nostr.info"
 ];
 
 export async function get() {
